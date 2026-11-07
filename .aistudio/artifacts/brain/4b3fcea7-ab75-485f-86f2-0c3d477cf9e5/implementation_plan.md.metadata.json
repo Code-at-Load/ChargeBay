@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural plan for iOS-style StandBy Mode app on Android, featuring horizontal view paging, dual-stack customizable widgets, oversized digital and analog clocks, fullscreen now-playing music controller with interactive audio, automatic landscape charging triggers, immersive system bar hiding, and ambient light-triggered red night mode.",
+  "updatedAt":  "2026-10-29T10:48:21.660041694Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix StandBy",
+  "description": "Apple iOS StandBy mode for Android with widgets, big clocks, music controller, and night mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
